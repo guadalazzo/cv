@@ -209,6 +209,8 @@
 		grid-row: 12;
 	}
 	.skill-info{
+		font-family: 'Quattrocento', serif;
+		font-weight: bold;
 		grid-row-start: 12;
     	grid-row-end: 14;
     	display: grid;
