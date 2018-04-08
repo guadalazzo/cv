@@ -45,10 +45,12 @@
 	    grid-row-start: 5;
     	grid-row-end: 7;
 	    padding: 1.4em;
+	    padding-top: 5px;
+	    padding-bottom: 5px;
 	    background: rgba(245, 245, 245, 0.43);
 	    font-size: 1em;
 	    display: grid;
-	    grid-template-rows: 2px 96px 1px 9px 3px 103px 1px 11px 3px;
+	    grid-template-rows: 2px 101px 1px 9px 3px 123px 1px 17px 3px;
 	}
 	.c1{
 		height: 198px;
@@ -123,12 +125,12 @@
 		//-webkit-box-shadow: -5px 13px 98px 16px rgba(0,0,0,0.75);
 		//-moz-box-shadow: -5px 13px 98px 16px rgba(0,0,0,0.75);
 		//box-shadow: -5px 13px 98px 16px rgba(0,0,0,0.75);
-		grid-column-start: 5;
+			grid-column-start: 5;
     	grid-column-end: 6;
-   		border-radius: 50%;
+   		border-radius: 29px;
     	grid-row-start: 2;
-       	display: block;
-       	height: 10em;
+      display: block;
+      height: 10em;
     	margin-left: 8em;
 	}
 	.subtitle{
